@@ -17,4 +17,6 @@ Feel free to explore, experiment, and use the code for you own leaning!
 
 ## Usage
 
-Use it🙃
+I made the repo largely for myself, so I am not sure if one will find it useful☺️
+I can't think of anybody reading that code except for a reason: "Hey, what are onter junior devs doing🙃".
+So if you find some usfull info there, good😎 But most likely you won'y get much out of it🙈
